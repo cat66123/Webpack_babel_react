@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log.*
+yarn-error.log
+
+# Cache file
+.eslintcache
+
+# macOS
+.DS_Store
+
+# IDE
+.vs
+.idea
+
+# Deps
+node_modules
+
+# NPM Lock file ( Using yarn )
+package-lock.json
+
